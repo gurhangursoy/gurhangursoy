@@ -17,7 +17,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 
 
-#### You can find me on:
+### You can find me on:
 <div align="center">
 <a href="https://twitter.com/grhngrsoy">
   <img align="center" alt="Gürhan's  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
