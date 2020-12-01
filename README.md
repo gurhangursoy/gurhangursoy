@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 
-# Hello, world! 👋, I'm **Gürhan Gürsoy**
+# Hello, world! 👋  I'm **Gürhan Gürsoy**
 
 ####  I'm Front-End Developer who lives in Turkey and I extremely love learning new languages and frameworks :)
 
