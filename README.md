@@ -1,7 +1,6 @@
-### Hi there 👋, **Gürhan Gürsoy**
-#### I am Front-End Developer
+### Welcome to my page, I'm **Gürhan Gürsoy**
 
-I'm from Turkey and I extremely love learning new languages and frameworks. That's why I decided to change my career :)
+####  I'm Front-End Developer who lives in Turkey and I extremely love learning new languages and frameworks. That's why I decided to change my career :)
 
 Skills:   JS / REACT / CSS / HTML / BOOTSTRAP
 
