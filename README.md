@@ -8,12 +8,6 @@
 ####  I'm Front-End Developer who lives in Turkey and I extremely love learning new languages and frameworks. That's why I decided to change my career :)
 
 
-- 🔭 I’m currently working on Web design 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about anything 
-
-
-
 ### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -25,6 +19,7 @@
 
 
 #### You can find me on:
+<div align="center">
 <a href="https://https://twitter.com/grhngrsoy">
   <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -35,5 +30,5 @@
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
-
+</div>
 </div>
