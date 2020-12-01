@@ -1,6 +1,5 @@
-#**Gürhan Gürsoy**
+### Hi there 👋, **Gürhan Gürsoy**
 #### I am Front-End Developer
-![I am Front-End Developer]
 
 I'm from Turkey and I extremely love learning new languages and frameworks. That's why I decided to change my career :)
 
