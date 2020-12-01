@@ -5,7 +5,7 @@
 
 # Hello, world! 👋, I'm **Gürhan Gürsoy**
 
-####  I'm Front-End Developer who lives in Turkey and I extremely love learning new languages and frameworks. That's why I decided to change my career :)
+####  I'm Front-End Developer who lives in Turkey and I extremely love learning new languages and frameworks :)
 
 
 ### Languages and Tools 🛠 
@@ -14,7 +14,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 
 
