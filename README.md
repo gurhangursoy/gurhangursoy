@@ -19,13 +19,13 @@
 
 #### You can find me on:
 <div align="center">
-<a href="https://https://twitter.com/grhngrsoy">
+<a href="https://twitter.com/grhngrsoy">
   <img align="center" alt="Gürhan's  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://https://www.linkedin.com/in/gurhan-gursoy/">
+<a href="https://www.linkedin.com/in/gurhan-gursoy/">
   <img align="center" alt="Gürhan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://https://www.instagram.com/grhngrsoy/">
+<a href="https://www.instagram.com/grhngrsoy/">
   <img align="center" alt="Gürhan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
