@@ -5,7 +5,7 @@
 
 # Hello, world! 👋  I'm **Gürhan Gürsoy**
 
-####  I'm Front-End Developer who lives in Turkey and I extremely love new things :)
+####  I'm Front-End Developer who lives in Turkey and I extremely love learning something new :)
 
 
 ### Languages and Tools 🛠 
